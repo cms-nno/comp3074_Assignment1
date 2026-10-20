@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.comp3074_assignment1"
+    namespace = "ca.gbc.comp3074.MacdonaldSimas_Carlos"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.comp3074_assignment1"
+        applicationId = "ca.gbc.comp3074.MacdonaldSimas_Carlos"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

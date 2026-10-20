@@ -11,7 +11,7 @@
 
         <!-- singleTop so returning via Up navigation reuses the existing instance -->
         <activity
-            android:name=".MainActivity"
+            android:name="ca.gbc.comp3074.MacdonaldSimas_Carlos.MainActivity"
             android:exported="true"
             android:launchMode="singleTop">
             <intent-filter>
@@ -21,9 +21,9 @@
         </activity>
 
         <activity
-            android:name=".AboutActivity"
+            android:name="ca.gbc.comp3074.MacdonaldSimas_Carlos.AboutActivity"
             android:label="@string/about_title"
-            android:parentActivityName=".MainActivity" />
+            android:parentActivityName="ca.gbc.comp3074.MacdonaldSimas_Carlos.MainActivity" />
     </application>
 
 </manifest>
