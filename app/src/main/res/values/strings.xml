@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pay Calculator</string>
+    <string name="about_title">About</string>
+    <string name="menu_about">About</string>
+
+    <string name="hint_hours">Number of hours worked</string>
+    <string name="hint_rate">Hourly rate</string>
+    <string name="hint_tax">Tax rate (%)</string>
+    <string name="btn_calculate">Calculate</string>
+
+    <string name="error_empty">Please fill in all fields</string>
+    <string name="error_invalid">Please enter valid numbers</string>
+
+    <string name="label_pay">Pay: $%1$.2f</string>
+    <string name="label_overtime">Overtime Pay: $%1$.2f</string>
+    <string name="label_total">Total Pay: $%1$.2f</string>
+    <string name="label_tax">Tax: $%1$.2f</string>
+
+
+    <string name="about_name">Carlos Macdonald-Simas</string>
+    <string name="about_student_id">101438565</string>
+</resources>
